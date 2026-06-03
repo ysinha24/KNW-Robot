@@ -9,6 +9,13 @@ Additionally, uses adjustments in voltage and ping distances to drive and turn s
 
 <img width="1462" height="807" alt="image" src="https://github.com/user-attachments/assets/21bcdfab-2485-45fd-9d4a-4ab0aec5de1a" />
 
+<img width="653" height="635" alt="image" src="https://github.com/user-attachments/assets/4ae8e4d3-d9b8-4dfb-a330-b754f3e4613c" />
+
+<img width="759" height="622" alt="image" src="https://github.com/user-attachments/assets/ed0b8921-19f1-483c-b2d1-1cea1922d080" />
+
+<img width="930" height="787" alt="image" src="https://github.com/user-attachments/assets/289f9aa6-a87b-41fe-9963-19c208ab8dcc" />
+
+
 
 ## Videos
 https://github.com/user-attachments/assets/8dbc7644-9c8e-4fa2-b63c-c5a0a753a1bc
